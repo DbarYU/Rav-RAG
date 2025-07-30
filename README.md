@@ -1,6 +1,6 @@
-# RAG (Retrieval-Augmented Generation) System
+# RAV Soloveitchik RAG System
 
-A sophisticated FastAPI-based RAG system designed for processing and querying transcript data with advanced embedding and LLM capabilities. This system specializes in handling subtitle (.srt) files and provides intelligent chat responses based on vector similarity search.
+A sophisticated FastAPI-based RAG system designed for processing and querying transcript data with advanced embedding and LLM capabilities. This system specializes in handling subtitle  files and provides intelligent chat responses based on vector similarity search.
 
 ## 🚀 Features
 
@@ -240,24 +240,6 @@ The system includes comprehensive monitoring:
 - **Streaming Responses**: Real-time chat responses
 - **Background Tasks**: Scheduled data synchronization
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests for new functionality
-5. Submit a pull request
-
-## 📝 License
-
-[Add your license information here]
-
-## 🆘 Support
-
-For issues and questions:
-- Create an issue in the repository
-- Check the API documentation at `/docs`
-- Review the health endpoint at `/api/v1/health/`
 
 ---
 
